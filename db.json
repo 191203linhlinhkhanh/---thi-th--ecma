@@ -1,0 +1,39 @@
+{
+  "books": [
+    {
+      "name": "Sách cho giới trẻ",
+      "list_price": "900",
+      "short_description": "Sách rất hay và ý nghĩa",
+      "image": "https://curnonwatch.com/blog/wp-content/uploads/2022/07/Slide1-3.jpeg",
+      "id": 1
+    },
+    {
+      "name": "ph36624",
+      "list_price": "30000",
+      "short_description": "Sách rất hay và ý nghĩa hihi",
+      "image": "https://vn-live-01.slatic.net/p/d82bec8c54c404d9e1afc6c6f369cd51.jpg",
+      "id": 3
+    },
+    {
+      "name": "ph36624",
+      "list_price": "30000",
+      "short_description": "Sách rất hay và ý nghĩa hihi",
+      "image": "https://vn-live-01.slatic.net/p/d82bec8c54c404d9e1afc6c6f369cd51.jpg",
+      "id": 4
+    },
+    {
+      "name": "Adidas",
+      "list_price": "30000",
+      "short_description": "Đẹp",
+      "image": "https://vn-live-01.slatic.net/p/d82bec8c54c404d9e1afc6c6f369cd51.jpg",
+      "id": 5
+    },
+    {
+      "name": "Ta Thi Khanh Linh",
+      "list_price": "700",
+      "short_description": "vvds",
+      "image": "https://pbs.twimg.com/media/F7um_5pbAAATana.jpg:large",
+      "id": 6
+    }
+  ]
+}
